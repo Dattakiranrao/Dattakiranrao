@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React & AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dattakiranrao?tab=repositories](https://github.com/Dattakiranrao?tab=repositories)
+- 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Dattakiranrao?tab=repositories)
 
 - 📫 How to reach me **dattakiran.edu@gmail.com**
 
