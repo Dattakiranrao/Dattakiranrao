@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://github.com/Dattakiranrao)
-<h1 align="center">Hi 👋, I'm Pondari Datta Kiran</h1>
+<h1 align="center">Hi, I'm Pondari Datta Kiran</h1>
 <h3 align="center">A Enthusiastic Full Stack Developer from Hyderabad,India</h3>
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/37581959/141803278-86a2df71-ab7c-42b9-9e40-3c9f12172c38.gif">
 
