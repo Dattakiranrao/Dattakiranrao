@@ -5,7 +5,7 @@
 
 - 👨‍💻 I'm interested in working for the project focused on **Machine learning & Web Development**
 
-- 🌱 I’m currently learning **React & AWS**
+- 🌱 I’m currently learning **Blockchain, Amplify & Cognito**
 
 - 👨‍💻 All of my projects are available at [My Repositories](https://github.com/Dattakiranrao?tab=repositories)
 
